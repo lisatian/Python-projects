@@ -1,0 +1,14 @@
+# When the hour is during production hours:
+Enter an hour of the day, in 24-hour format: 14
+Enter the number of workers: 5
+The total number of pieces produced is: 175
+
+# When the hour is outside production hours:
+Enter an hour of the day, in 24-hour format: 21
+Enter the number of workers: 6
+The total number of pieces produced is: 0
+
+# When the hour is invalid because it's outside of the 0 to 23 range:
+Enter an hour of the day, in 24-hour format: 24
+Enter the number of workers: 2
+The total number of pieces produced is: Invalid hour
