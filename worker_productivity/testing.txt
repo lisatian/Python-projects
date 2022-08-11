@@ -7,7 +7,7 @@ The total number of pieces produced is: 175
 
 
 
-### * When the user inputs an hour of the day that is a outside of production hours *
+### * When the user inputs an hour of the day that is outside of production hours *
 
 Enter an hour of the day, in 24-hour format: 21
 Enter the number of workers: 6
