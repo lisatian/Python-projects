@@ -7,4 +7,4 @@ Assumptions:
 
 The main_program.py handles the user input and calls productivity_function.py to calculate the total number of pieces produced in any given hour input by the user.
 
-A sample file, testing.txt, is provided to show the program in use when given example inputs.
+A sample file, testing.txt, is provided to show the automation in use when given example inputs.
