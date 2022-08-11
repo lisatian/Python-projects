@@ -16,7 +16,7 @@ The total number of pieces produced is: 0
 
 
 
-### * When user inputs an number that is not a valid hour of the day, i.e. outside of the 0 to 23 range: *
+### * When user inputs a number that is not a valid hour of the day, i.e. outside of the 0 to 23 range: *
 
 Enter an hour of the day, in 24-hour format: 24
 Enter the number of workers: 2
