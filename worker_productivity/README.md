@@ -9,4 +9,4 @@ Given assumptions:
 
 **main_program.py** handles the user input and calls **productivity_function.py** to calculate the total number of pieces that can be produced in the given hour.
 
-A sample file, **testing.txt**, is provided to show results of example user inputs.
+A sample file, **testing.txt**, is provided to show example input results.
