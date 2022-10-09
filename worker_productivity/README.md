@@ -7,6 +7,6 @@ Given assumptions:
 - between hours of 10am and 2pm -- produce 40 pieces/hour/worker
 - between hours of 2pm and 6pm -- produce 35 pieces/hour/worker
 
-main_program.py handles the user input and calls productivity_function.py to calculate the total number of pieces produced in any given hour.
+**main_program.py** handles the user input and calls **productivity_function.py** to calculate the total number of pieces that can be produced in the given hour.
 
-A sample file, testing.txt, is provided to show the automation in use when given example user inputs.
+A sample file, **testing.txt**, is provided to show results of sample user inputs.
