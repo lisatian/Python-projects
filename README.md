@@ -1,5 +1,5 @@
 # python
 
 Projects:
-- valid_sn_number
+- [valid_sn_number](https://github.com/lisatian/Python-projects/tree/master/valid_sn_number)
 - worker_productivity
