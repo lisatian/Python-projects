@@ -1,6 +1,6 @@
 This program calculates a manufacturing company's total output in any given hour, based on assumptions of worker productivity throughout the day.
 
-The user is prompted to input an hour of the day (24-hr format) and the number of workers present at that hour. The program will display the total number of pieces that the company can produce within the hour.
+The user is prompted to input an hour of the day (24-hr format) and the number of workers present at that hour. The program will display the total number of pieces the company can produce within the hour.
 
 Given assumptions:
 - between hours of 6am and 10am -- produce 30 pieces/hour/worker
